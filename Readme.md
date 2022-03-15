@@ -1,5 +1,5 @@
 # Inicialización:
-ejecutar script d base de datos en: ./utils/ecommerce.sql
+ejecutar script de base de datos en: ./utils/ecommerce.sql
 
 # Simulación:
 Paso1: npm i
